@@ -47,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "@types/qs": "^6.9.5",
     "husky": ">=4",
     "json-server": "^0.16.3",
     "lint-staged": ">=10",
